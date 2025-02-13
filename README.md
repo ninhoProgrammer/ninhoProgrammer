@@ -1,50 +1,41 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio - Desarrollador C#</title>
+<h1 align="center"> <img width="84" height="84" src="https://img.icons8.com/arcade/64/github.png" alt="github"/></h1>
+<h1 align="center"> <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="test-account"/> Mario Hernández - Desarrollador C# <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/></h1>
+<p>Apasionado por los videojuegos <img width="24" height="24" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/> y la creatividad en el desarrollo de software <img width="24" height="24" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/></p>
+<h1>Sobre mí</h1>
+    <p>Desarrollador de software especializado en C#, Windows Forms y generación de reportes con Crystal Reports y RDL.</p>
+</div>
+<div class="container">
+    <h2>Habilidades</h2>
+    <ul>
+        <li>Diseño de interfaces intuitivas</li>
+        <li>Solución creativa de problemas</li>
+        <li>Trabajo en equipo</li>
+    </ul>
+    <h2>Tecnologias</h2>
+    <ul>
+        <li>C# - Windows Forms <img width="24" height="24" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/></li>
+        <li>Crystal Reports, RDLC <img width="24" height="24" src="https://img.icons8.com/arcade/64/pie-chart-report.png" alt="pie-chart-report"/></li>
+        <li>.NET <img width="24" height="24" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> HTML <img width="24" height="24" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/> CSS <img width="24" height="24" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></li>
+    </ul>
     
-</head>
-<body>
-    <header>
-        <h1>Mario Hernández - Desarrollador C#</h1>
-        <p>Apasionado por los videojuegos y la creatividad en el desarrollo de software</p>
-    </header>
-    <div class="container">
-        <h2>Sobre mí</h2>
-        <p>Desarrollador de software especializado en C#, Windows Forms y generación de reportes con Crystal Reports y RDLC.</p>
-    </div>
-    <div class="container">
-        <h2>Habilidades</h2>
-        <ul>
-            <li>C# - Windows Forms</li>
-            <li>Crystal Reports, RDLC</li>
-            <li>Diseño de interfaces intuitivas</li>
-            <li>Solución creativa de problemas</li>
-            <li>Trabajo en equipo</li>
-        </ul>
-    </div>
-    <div class="container">
-        <h2>Proyectos Destacados</h2>
-        <div class="projects">
-            <div class="project-card">
-                <h3>NomiABG</h3>
-                <p>Sistema de gestión de nómina con reportes detallados.</p>
-                <a href="https://github.com/TU_USUARIO/NomiABG">Ver en GitHub</a>
-            </div>
-            <div class="project-card">
-                <h3>Otro Proyecto</h3>
-                <p>Descripción breve de otro proyecto relevante.</p>
-                <a href="#">Ver en GitHub</a>
-            </div>
+<h2>Proyectos Destacados</h2>
+    <div class="projects">
+        <div class="project-card">
+            <h3>Reporteador</h3>
+            <p>Sistema de gestión de reportes detallados con RDL de Micorsoft Repot Builder.</p>
+            <a href="https://github.com/ninhoProgrammer/Reporteadores">Ver en GitHub</a>
+        </div>
+        <div class="project-card">
+            <h3>Inventario</h3>
+            <p>Gestor de inventarios</p>
+            <a href="https://github.com/ninhoProgrammer/InventaryWMS">Ver en GitHub</a>
         </div>
     </div>
-    <footer>
-        <p>Conéctate conmigo en <a href="https://www.linkedin.com/in/it-mario-hern%C3%A1ndez/">LinkedIn</a></p>
-    </footer>
-</body>
-</html>
+<h2>Conéctate conmigo</h2>
+    <a href="https://www.linkedin.com/in/it-mario-hernández/"><img width="64" height="64" src="https://img.icons8.com/arcade/64/linkedin-circled.png" alt="linkedin-circled"/></a>
+<h2></h2>
+<h2 align="center"><img width="64" height="64" src="https://img.icons8.com/arcade/64/spiderman-head.png" alt="spiderman-head"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/iron-man.png" alt="iron-man"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/venom-head.png" alt="venom-head"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/thor.png" alt="thor"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/hulk.png" alt="hulk"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/deadpool.png" alt="deadpool"/></h2>
+
 
 <!--
 **ninhoProgrammer/ninhoProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
