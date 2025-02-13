@@ -1,5 +1,6 @@
 <h1 align="center"> <img width="84" height="84" src="https://img.icons8.com/arcade/64/github.png" alt="github"/></h1>
-<h1 align="center"> <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="test-account"/> Mario Hernández - Desarrollador C# <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/></h1>
+<h1 align="center"> <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="test-account"/> ING. Mario "Ninho" Hernández <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/> </h1> 
+<h2 align="center"> Desarrollador C# </h2>
 <p>Apasionado por los videojuegos <img width="24" height="24" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/> y la creatividad en el desarrollo de software <img width="24" height="24" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/></p>
 <h1>Sobre mí</h1>
     <p>Desarrollador de software especializado en C#, Windows Forms y generación de reportes con Crystal Reports y RDL.</p>
