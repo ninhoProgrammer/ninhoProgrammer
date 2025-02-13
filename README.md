@@ -4,56 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio - Desarrollador C#</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #121212;
-            color: #ffffff;
-            text-align: center;
-        }
-        header {
-            background: #1e1e1e;
-            padding: 20px;
-        }
-        h1 {
-            margin: 0;
-            color: #4CAF50;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #222;
-            border-radius: 10px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            padding: 10px;
-            border-bottom: 1px solid #444;
-        }
-        a {
-            color: #4CAF50;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .projects {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 15px;
-        }
-        .project-card {
-            background: #333;
-            padding: 15px;
-            border-radius: 8px;
-            width: 45%;
-        }
-    </style>
+    
 </head>
 <body>
     <header>
