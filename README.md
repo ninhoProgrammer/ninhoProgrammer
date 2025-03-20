@@ -1,9 +1,9 @@
 <h1 align="center"> <img width="84" height="84" src="https://img.icons8.com/arcade/64/github.png" alt="github"/></h1>
 <h1 align="center"> <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="test-account"/> ING. Mario "Ninho" Hernández <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/> </h1> 
-<h2 align="center"> Desarrollador C# </h2>
+<h2 align="center"> Desarrollador de software </h2>
 <p>Apasionado por los videojuegos <img width="24" height="24" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/> y la creatividad en el desarrollo de software <img width="24" height="24" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/> <img width="24" height="24" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/></p>
 <h1>Sobre mí</h1>
-    <p>Desarrollador de software especializado en C#, Windows Forms y generación de reportes con Crystal Reports y RDL.</p>
+    <p>Desarrollador de software especializado en C#, Windows Forms y .Net al igual que generación de reportes con Crystal Reports y RDL herramienta de reportes de Microsoft, actualmente estudio autodidacta de Astro un Framework de código abierto para el desarrollo web, también implemento Three js en mi ultimo proyecto.</p>
 </div>
 <div class="container">
     <h2>Habilidades</h2>
@@ -17,6 +17,7 @@
         <li>C# - Windows Forms <img width="24" height="24" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/></li>
         <li>Crystal Reports, RDLC <img width="24" height="24" src="https://img.icons8.com/arcade/64/pie-chart-report.png" alt="pie-chart-report"/></li>
         <li>.NET <img width="24" height="24" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> HTML <img width="24" height="24" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/> CSS <img width="24" height="24" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></li>
+        <li>Astro ![image](https://github.com/user-attachments/assets/0d7c04bc-5c0e-4084-b0fa-888d8509e00a) y Three js </li>
     </ul>
     
 <h2>Proyectos Destacados</h2>
