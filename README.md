@@ -29,10 +29,10 @@
 
   <h2>Technologies</h2>
   <ul>
-    <li>C# - Windows Forms <img width="24" height="24" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/></li>
+    <li>.NET <img width="24" height="24" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> Astro <img width="24" height="24" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="astro"/> Vue.js <img width="24" height="24" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="astro"/> Three.js <img width="24" height="24" src="https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000" alt="threejs"/></li>
+    <li>C# - Windows Forms & MVC <img width="24" height="24" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/></li>
     <li>Crystal Reports, RDLC <img width="24" height="24" src="https://img.icons8.com/arcade/64/pie-chart-report.png" alt="pie-chart-report"/></li>
-    <li>.NET <img width="24" height="24" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> HTML <img width="24" height="24" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/> CSS <img width="24" height="24" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></li>
-    <li>Astro <img width="24" height="24" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="astro"/> and Three.js <img width="24" height="24" src="https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000" alt="threejs"/></li>
+    <li>HTML <img width="24" height="24" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/> CSS <img width="24" height="24" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></li>
   </ul>
 
   <h2>Featured Projects</h2>
@@ -43,9 +43,9 @@
       <a href="https://github.com/ninhoProgrammer/Reporteadores">View on GitHub</a>
     </div>
     <div class="project-card">
-      <h3>Inventory</h3>
-      <p>Inventory manager</p>
-      <a href="https://github.com/ninhoProgrammer/InventaryWMS">View on GitHub</a>
+      <h3>E-Commerce</h3>
+      <p>Buying services over the Internet</p>
+      <a href="https://github.com/ninhoProgrammer/ecommer">View on GitHub</a>
     </div>
   </div>
 
