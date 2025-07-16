@@ -16,7 +16,7 @@
 </p>
 <h1>About Me</h1>
 <p>
-  Software developer specialized in C#, Windows Forms, and .NET, as well as report generation using Crystal Reports and Microsoft’s RDL reporting tool. Currently a self-taught student of Astro, an open-source framework for web development. I also implemented Three.js in my latest project.
+  I'm a software developer from San Luis Potosí, Mexico, with experience building robust and scalable applications, as well as securely deploying web-based software. I'm focused on delivering creative solutions to technical problems and enjoy collaborating in teams to develop intuitive software that meets the needs of end users. Feel free to check out my portfolio, where I showcase projects ranging from .NET to Astro — including desktop apps built with C# and API integrations. I specialize in building desktop applications using C# and Windows Forms, and I'm currently improving my English to grow professionally and access better job opportunities.
 </p>
 
 <div class="container">
