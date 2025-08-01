@@ -6,9 +6,9 @@
 </h1>
 <p align="center">
   <a href="https://github.com/ninhoProgrammer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ninhoProgrammer?style=for-the-badge&logo=star&date=31122025"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ninhoProgrammer?style=for-the-badge&logo=star&date=12312025"/></a>
   <a href="https://github.com/ninhoProgrammer?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ninhoProgrammer?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=31122025"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ninhoProgrammer?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=12312025"/></a>
   <a href="https://github.com/ninhoProgrammer/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ninhoProgrammer&style=for-the-badge"/></a>
 </p>
@@ -67,17 +67,27 @@
 
 <h2>🏆 GitHub Trophies</h2>  
 <div align="center" class="container">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&title=MultiLanguage,Repositories,Commits,Followers,Stars,Issues,PullRequest,Experience,Reviews">
+  <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&title=MultiLanguage,Repositories,Commits,Followers,Stars,Issues,PullRequest,Experience,Reviews&date=12312025">
 </div>
 
 <h2>📊 Stats</h2>  
 <div align="center" class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&hide_border=true&theme=radical&date=31122025">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&layout=donut-vertical&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true" />
+</picture>
 </div>
 
 <h2>🧠 Most Used Languages</h2>
 <div align="center" class="container">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=compact&theme=radical&hide_border=true&date=31122025">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&theme=radical&hide_border=true&date=12312025">
 </div>
   
   <h2></h2>
