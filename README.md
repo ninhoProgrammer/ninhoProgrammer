@@ -69,28 +69,20 @@
   </a>
 
 <h2>🏆 GitHub Trophies</h2>  
-<div align="center" class="container">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&title=MultiLanguage,Repositories,Commits,Followers,Stars,Issues,PullRequest,Experience,Reviews&date=12312025">
-</div>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
 
 <h2>📊 Stats</h2>  
 <div align="center" class="container">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&layout=donut-vertical&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true" />
-</picture>
+  
+![Ninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true&theme=radical)
+
 </div>
 
 <h2>🧠 Most Used Languages</h2>
 <div align="center" class="container">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&theme=radical&hide_border=true&date=12312025">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
   
   <h2></h2>
