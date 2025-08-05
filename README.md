@@ -4,6 +4,7 @@
   Mario "Ninho" Hernández
   <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/>
 </h1>
+ 
 <p align="center">
   <a href="https://github.com/ninhoProgrammer?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ninhoProgrammer?style=for-the-badge&logo=github" />
@@ -15,30 +16,33 @@
     <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=ninhoProgrammer&style=for-the-badge" />
   </a>
 </p>
-
+  <h2></h2>
 <h1 align="center">Software Developer</h1>
 <p>
-  Passionate about video games
-  <img width="24" height="24" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/>
-  <img width="24" height="24" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/>
-  and creativity in software development
-  <img width="24" height="24" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/>
-  <img width="24" height="24" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/>
-  <img width="24" height="24" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/>
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/>
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/>
+  Passionate about video games and creativity in software development
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/>
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/>
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/>
 </p>
-<h2>✍️ About Me</h2>
+  <h2></h2>
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0aa4fce7-e368-4bb8-9373-962a90cd527c" />
+ About Me</h2>
 <p>
   I'm a software developer from San Luis Potosí, Mexico, with experience building robust and scalable applications, as well as securely deploying web-based software. I'm focused on delivering creative solutions to technical problems and enjoy collaborating in teams to develop intuitive software that meets the needs of end users. Feel free to check out my portfolio, where I showcase projects ranging from .NET to Astro — including desktop apps built with C# and API integrations. I specialize in building desktop applications using C# and Windows Forms, and I'm currently improving my English to grow professionally and access better job opportunities.
 </p>
-
-  <h2>🧰 Skills</h2>
+  <h2></h2>
+  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bad62bc-6ad6-497a-9eef-244f5bc6c50c" />
+ Skills</h2>
   <ul>
     <li>Intuitive UI design</li>
     <li>Creative problem-solving</li>
     <li>Teamwork</li>
   </ul>
-
-  <h2>💻 Technologies</h2>
+  <h2></h2>
+  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d896d0b3-af42-45cb-9e16-bb0f3e2dfe13" />
+ Technologies</h2>
   <ul>
     <li><img width="50" height="50" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="astro"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="astro"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000" alt="threejs"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/24aea699-97a0-4685-b37c-27116cd831ad" />
 </li>
@@ -54,8 +58,9 @@
 </li>
     <li> <img width="50" height="50" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*BKvLSazsPAmNfdSn"/></li>
   </ul>
-
-  <h2>🛠️ Featured Projects</h2>
+  <h2></h2>
+  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a8bf4009-6229-495d-bf0a-f2e56c970d3b" />
+ Featured Projects</h2>
   <div class="projects">
     <div class="project-card">
       <h3>Report Generator</h3>
@@ -68,27 +73,31 @@
       <a href="https://github.com/ninhoProgrammer/ecommer">View on GitHub</a>
     </div>
   </div>
-
-  <h2>📫 Connect with Me</h2>
+  <h2></h2>
+  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cd947821-5708-460d-b537-087015702ee6" />
+ Connect with Me</h2>
   <a href="https://www.linkedin.com/in/it-mario-hernández/">
     <img width="50" height="50" src="https://img.icons8.com/arcade/64/linkedin-circled.png" alt="linkedin-circled"/>
   </a><a href="https://mario-hernandez-site.vercel.app">
     <img width="50" height="50" src="https://img.icons8.com/?size=100&id=XZq0ctcsjbHB&format=png" alt="linkedin-circled"/>
   </a>
-
-<h2>🏆 GitHub Trophies</h2>  
+  <h2></h2>
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c308e3c1-90ea-48ee-b13d-e5f6d14023b3" />
+ GitHub Trophies</h2>  
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
-
-<h2>📊 Stats</h2>  
+  <h2></h2>
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/93757524-bdd7-4da8-b543-66fb8664f1d0" />
+ Stats</h2>  
 <div align="center" class="container">
   
 ![Ninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true&theme=radical)
 
 </div>
-
-<h2>🧠 Most Used Languages</h2>
+  <h2></h2>
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09d19ede-984e-48c1-becc-06a1d41d4502" />
+ Most Used Languages</h2>
 <div align="center" class="container">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
