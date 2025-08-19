@@ -103,11 +103,8 @@
 </div>
   
   <h2></h2>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake-dark.svg" width="100%">
-</picture>
+ <!-- SNAKE_START -->
+<!-- SNAKE_END -->
   <h2></h2>
 
   <h2 align="center">

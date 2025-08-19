@@ -1,0 +1,37 @@
+name: Update Snake in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # opcional: corre diario
+  workflow_dispatch:      # permite ejecutarlo manualmente
+
+permissions:
+  contents: write         # necesario para actualizar README
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ninhoProgrammer
+          outputs: snake.svg
+
+      - name: Insert Snake into README
+        run: |
+          # Reemplaza el bloque existente o agrega al final
+          sed -i '/<!-- SNAKE_START -->/,/<!-- SNAKE_END -->/d' README.md
+          echo -e "<!-- SNAKE_START -->\n<img alt=\"snake animation\" src=\"snake.svg\" width=\"100%\">\n<!-- SNAKE_END -->" >> README.md
+          
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
