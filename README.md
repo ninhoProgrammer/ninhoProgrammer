@@ -103,6 +103,12 @@
 </div>
   
   <h2></h2>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ninhoProgrammer/ninhoProgrammer/output/snake-dark.svg" width="100%">
+</picture>
+  <h2></h2>
 
   <h2 align="center">
     <img width="64" height="64" src="https://img.icons8.com/arcade/64/spiderman-head.png" alt="spiderman-head"/>
