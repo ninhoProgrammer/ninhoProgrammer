@@ -103,7 +103,6 @@
 </div>
   
   <h2></h2>
-  <h2></h2>
 
   <h2 align="center">
     <img width="64" height="64" src="https://img.icons8.com/arcade/64/spiderman-head.png" alt="spiderman-head"/>
@@ -129,6 +128,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- SNAKE_START -->
-<img alt="snake animation" src="snake.svg" width="100%">
-<!-- SNAKE_END -->
+
