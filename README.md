@@ -103,8 +103,6 @@
 </div>
   
   <h2></h2>
- <!-- SNAKE_START -->
-<!-- SNAKE_END -->
   <h2></h2>
 
   <h2 align="center">
@@ -131,3 +129,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- SNAKE_START -->
+<img alt="snake animation" src="snake.svg" width="100%">
+<!-- SNAKE_END -->
