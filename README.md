@@ -129,3 +129,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- SNAKE_START -->
+<img alt="snake animation" src="snake.svg" width="100%">
+<!-- SNAKE_END -->
