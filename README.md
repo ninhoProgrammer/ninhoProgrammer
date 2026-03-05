@@ -30,7 +30,7 @@
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0aa4fce7-e368-4bb8-9373-962a90cd527c" />
  About Me</h2>
 <p>
-  I'm a software developer from San Luis Potosí, Mexico, with experience building robust and scalable applications, as well as securely deploying web-based software. I'm focused on delivering creative solutions to technical problems and enjoy collaborating in teams to develop intuitive software that meets the needs of end users. Feel free to check out my portfolio, where I showcase projects ranging from .NET to Astro — including desktop apps built with C# and API integrations. I specialize in building desktop applications using C# and Windows Forms, and I'm currently improving my English to grow professionally and access better job opportunities.
+  Software Developer with over 5+ years of experience in IT infrastructure and software development. Specialized in building business applications using C#, .NET, SQL Server, and modern web technologies such as Vue and Astro. Strong background in server administration, database optimization, REST API development, and production environment management.  Experienced in developing scalable systems, automating reporting processes, and improving operational efficiency.
 </p>
   <h2></h2>
   <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bad62bc-6ad6-497a-9eef-244f5bc6c50c" />
@@ -38,6 +38,9 @@
   <ul>
     <li>Intuitive UI design</li>
     <li>Creative problem-solving</li>
+    <li>Full Stack Development</li>
+    <li>Windows Server</li>
+    <li>Database Design</li>
     <li>Teamwork</li>
   </ul>
   <h2></h2>
