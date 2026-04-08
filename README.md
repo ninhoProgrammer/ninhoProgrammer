@@ -30,7 +30,10 @@
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0aa4fce7-e368-4bb8-9373-962a90cd527c" />
  About Me</h2>
 <p>
-  Software Developer with over 5+ years of experience in IT infrastructure and software development. Specialized in building business applications using C#, .NET, SQL Server, and modern web technologies such as Vue and Astro. Strong background in server administration, database optimization, REST API development, and production environment management.  Experienced in developing scalable systems, automating reporting processes, and improving operational efficiency.
+ Software Developer with 5+ years of experience in IT infrastructure and software development. Specialized in building business applications using C#, .NET, SQL Server, and modern web technologies such as Vue and Astro. Strong background in server administration, database optimization, REST API development, and production environment management. 
+
+Experienced in developing scalable systems, automating reporting processes, and improving operational efficiency. Focused on delivering reliable, high-performance solutions aligned with business objectives.
+
 </p>
   <h2></h2>
   <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bad62bc-6ad6-497a-9eef-244f5bc6c50c" />
