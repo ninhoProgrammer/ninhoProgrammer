@@ -1,140 +1,196 @@
-<h1 align="center"> <img width="84" height="84" src="https://img.icons8.com/arcade/64/github.png" alt="github"/></h1>
-<h1 width="84" height="84" align="center">
-  <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="test-account"/>
-  Mario "Ninho" Hernández
-  <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="tiktok-verified-account"/>
+<h1 align="center">
+  <img width="84" height="84" src="https://img.icons8.com/arcade/64/github.png" alt="GitHub"/>
 </h1>
- 
+
+<h1 align="center">
+  <img width="34" height="34" src="https://img.icons8.com/arcade/64/test-account.png" alt="Developer"/>
+  Mario "Ninho" Hernández
+  <img width="34" height="34" src="https://img.icons8.com/arcade/64/tiktok-verified-account.png" alt="Verified"/>
+</h1>
+
+<h3 align="center">💻 Software Developer | Full Stack Developer | IT Infrastructure</h3>
+
+<p align="center">
+  Passionate about technology, video games and creating reliable software solutions.
+</p>
+
 <p align="center">
   <a href="https://github.com/ninhoProgrammer?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ninhoProgrammer?style=for-the-badge&logo=github" />
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ninhoProgrammer?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/ninhoProgrammer?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ninhoProgrammer?style=for-the-badge&logo=github" />
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ninhoProgrammer?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/ninhoProgrammer/">
-    <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=ninhoProgrammer&style=for-the-badge" />
+  <a href="https://github.com/ninhoProgrammer">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ninhoProgrammer&style=for-the-badge"/>
   </a>
 </p>
-  <h2></h2>
-<h1 align="center">Software Developer</h1>
-<p>
-  <img width="50" height="50" src="https://img.icons8.com/arcade/64/james-bond.png" alt="james-bond"/>
-  <img width="50" height="50" src="https://img.icons8.com/arcade/64/nintendo-switch-logo.png" alt="nintendo-switch-logo"/>
-  Passionate about video games and creativity in software development
-  <img width="50" height="50" src="https://img.icons8.com/arcade/64/repository.png" alt="repository"/>
-  <img width="50" height="50" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/>
-  <img width="50" height="50" src="https://img.icons8.com/arcade/64/checklist.png" alt="checklist"/>
-</p>
-  <h2></h2>
-<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0aa4fce7-e368-4bb8-9373-962a90cd527c" />
- About Me</h2>
-<p>
- Software Developer with 5+ years of experience in IT infrastructure and software development. Specialized in building business applications using C#, .NET, SQL Server, and modern web technologies such as Vue and Astro. Strong background in server administration, database optimization, REST API development, and production environment management. 
 
-Experienced in developing scalable systems, automating reporting processes, and improving operational efficiency. Focused on delivering reliable, high-performance solutions aligned with business objectives.
-
-</p>
-  <h2></h2>
-  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bad62bc-6ad6-497a-9eef-244f5bc6c50c" />
- Skills</h2>
-  <ul>
-    <li>Intuitive UI design</li>
-    <li>Creative problem-solving</li>
-    <li>Full Stack Development</li>
-    <li>Windows Server</li>
-    <li>Database Design</li>
-    <li>Teamwork</li>
-  </ul>
-  <h2></h2>
-  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d896d0b3-af42-45cb-9e16-bb0f3e2dfe13" />
- Technologies</h2>
-  <ul>
-    <li><img width="50" height="50" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="astro"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="astro"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000" alt="threejs"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/24aea699-97a0-4685-b37c-27116cd831ad" />
-</li>
-      <li><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3765790a-7c06-4134-bc79-9d83ff8a19f9" /> 
-      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bffa1cbd-52c7-45b0-8d9d-5fd13c5ca79a" />
-       <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0e754d2c-8f07-41c5-81b2-6d35dd026c2c" />
- </li>
-    <li><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b6d6c9f2-332b-4524-9217-2e824c6765a7" />
-      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1cfb0a25-0994-47da-b1ea-874e1bf0947b" />
-
- </li>
-    <li><img width="50" height="50" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/> <img width="50" height="50" alt="image" src="https://mecdata.it/wp-content/uploads/2020/01/pngwave_asp_net_mvc.png" alt="net-logo" />
-</li>
-    <li> <img width="50" height="50" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*BKvLSazsPAmNfdSn"/></li>
-  </ul>
-  <h2></h2>
-  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a8bf4009-6229-495d-bf0a-f2e56c970d3b" />
- Featured Projects</h2>
-  <div class="projects">
-    <div class="project-card">
-      <h3>Report Generator</h3>
-      <p>Detailed report management system using Microsoft's Report Builder with RDL.</p>
-      <a href="https://github.com/ninhoProgrammer/Reporteadores">View on GitHub</a>
-    </div>
-    <div class="project-card">
-      <h3>E-Commerce</h3>
-      <p>Buying services over the Internet</p>
-      <a href="https://github.com/ninhoProgrammer/ecommer">View on GitHub</a>
-    </div>
-  </div>
-  <h2></h2>
-  <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cd947821-5708-460d-b537-087015702ee6" />
- Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/it-mario-hernández/">
-    <img width="50" height="50" src="https://img.icons8.com/arcade/64/linkedin-circled.png" alt="linkedin-circled"/>
-  </a><a href="https://mario-hernandez-site.vercel.app">
-    <img width="50" height="50" src="https://img.icons8.com/?size=100&id=XZq0ctcsjbHB&format=png" alt="linkedin-circled"/>
-  </a>
-  <h2></h2>
-<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c308e3c1-90ea-48ee-b13d-e5f6d14023b3" />
- GitHub Trophies</h2>  
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://www.linkedin.com/in/it-mario-hernández/">
+    <img width="50" height="50" src="https://img.icons8.com/arcade/64/linkedin-circled.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://mario-hernandez-site.vercel.app/">
+    <img width="50" height="50" src="https://img.icons8.com/?size=100&id=XZq0ctcsjbHB&format=png" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/ninhoProgrammer">
+    <img width="50" height="50" src="https://img.icons8.com/arcade/64/github.png" alt="GitHub"/>
+  </a>
 </p>
-  <h2></h2>
-<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/93757524-bdd7-4da8-b543-66fb8664f1d0" />
- Stats</h2>  
-<div align="center" class="container">
-  
-![Ninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true&theme=radical)
 
-</div>
-  <h2></h2>
-<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09d19ede-984e-48c1-becc-06a1d41d4502" />
- Most Used Languages</h2>
-<div align="center" class="container">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&langs_count=8&theme=radical" alt="Top Languages"/>
-</div>
-  
-  <h2></h2>
+---
 
-  <h2 align="center">
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/spiderman-head.png" alt="spiderman-head"/>
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/iron-man.png" alt="iron-man"/>
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/venom-head.png" alt="venom-head"/>
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/thor.png" alt="thor"/>
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/hulk.png" alt="hulk"/>
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/deadpool.png" alt="deadpool"/>
-  </h2>
+# 👨‍💻 About Me
 
+<img align="right" width="180" src="https://img.icons8.com/arcade/256/source-code.png" alt="Software Developer"/>
 
-<!--
-**ninhoProgrammer/ninhoProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with **5+ years of experience** in IT infrastructure and software development.
 
-Here are some ideas to get you started:
+I specialize in building business applications using **C#, .NET, SQL Server**, and modern web technologies such as **Vue.js and Astro**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience in:
 
-<!-- SNAKE_START -->
-<img alt="snake animation" src="snake.svg" width="100%">
-<!-- SNAKE_END -->
+* 🖥️ Server administration and production environments.
+* 🗄️ Database design and optimization.
+* 🔗 REST API development and integrations.
+* 📊 Report automation and business reporting.
+* 🐳 Docker and containerized applications.
+* ⚡ Building reliable and high-performance solutions.
+
+My goal is to create scalable software solutions that improve processes and solve real business problems.
+
+<br clear="right"/>
+
+---
+
+# 🧠 Skills
+
+<p align="center">
+
+🖥️ **Full Stack Development**
+🎨 **Intuitive UI Design**
+🧩 **Creative Problem-Solving**
+🗄️ **Database Design**
+🖥️ **Windows Server Administration**
+🤝 **Teamwork**
+
+</p>
+
+---
+
+# ⚙️ Technologies
+
+### 💻 Backend & Development
+
+<p>
+  <img width="50" height="50" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="C#"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/net-framework.png" alt=".NET"/>
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="JavaScript"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/24aea699-97a0-4685-b37c-27116cd831ad" alt="Node.js"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/3765790a-7c06-4134-bc79-9d83ff8a19f9" alt="REST API"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" alt="Astro"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/bffa1cbd-52c7-45b0-8d9d-5fd13c5ca79a" alt="Vue.js"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/0e754d2c-8f07-41c5-81b2-6d35dd026c2c" alt="Tailwind CSS"/>
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000" alt="Three.js"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/b6d6c9f2-332b-4524-9217-2e824c6765a7" alt="SQL Server"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/1cfb0a25-0994-47da-b1ea-874e1bf0947b" alt="MySQL"/>
+</p>
+
+### 🛠️ Tools & Infrastructure
+
+<p>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/d896d0b3-af42-45cb-9e16-bb0f3e2dfe13" alt="GitHub"/>
+  <img width="50" height="50" src="https://mecdata.it/wp-content/uploads/2020/01/pngwave_asp_net_mvc.png" alt="ASP.NET MVC"/>
+  <img width="50" height="50" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*BKvLSazsPAmNfdSn" alt="Docker"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Report Generator
+
+A report management system using Microsoft's Report Builder and RDL technology.
+
+**Technologies:**
+`C#` `SQL Server` `RDL` `Reporting`
+
+🔗 **[View Repository →](https://github.com/ninhoProgrammer/Reporteadores)**
+
+---
+
+## 🛒 E-Commerce
+
+An e-commerce application focused on buying and managing services through the Internet.
+
+**Technologies:**
+`Astro` `Vue.js` `Tailwind CSS` `REST API`
+
+🔗 **[View Repository →](https://github.com/ninhoProgrammer/ecommer)**
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ninhoProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ninhoProgrammer&show_icons=true&theme=radical"
+    alt="Ninho's GitHub Stats"
+  />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhoProgrammer&layout=donut&langs_count=8&theme=radical"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="Snake animation" src="snake.svg" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/spiderman-head.png" alt="Spider-Man"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/iron-man.png" alt="Iron Man"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/venom-head.png" alt="Venom"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/thor.png" alt="Thor"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/hulk.png" alt="Hulk"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/deadpool.png" alt="Deadpool"/>
+</p>
+
+<h3 align="center">
+  ⚡ "Turning ideas into reliable software solutions." ⚡
+</h3>
+
